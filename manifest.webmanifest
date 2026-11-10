@@ -1,0 +1,16 @@
+{
+  "name": "WB Design - Form Design Sales",
+  "short_name": "WB Design",
+  "description": "Form permintaan design kemasan Sales Willis Box",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF3FC",
+  "theme_color": "#1546A8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
